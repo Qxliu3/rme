@@ -25,7 +25,7 @@ Now let's expand the left-hand side to reach the same expression:
 $$
 \ba
 \mselr{\hth} 
-&= \E{(\e(\hth))^2}\\
+&= \E{(\eps(\hth))^2}\\
 &= \E{(\hth - \th)^2}\\
 &= \E{\hth^2 - 2\hth\th - \th^2}\\
 &=\E{\hth^2} - \E{2\hth\th}+\E{\th^2}\\
